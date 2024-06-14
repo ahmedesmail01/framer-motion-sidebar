@@ -15,6 +15,7 @@ A simple, animated sidebar built with Vite, React, TypeScript, and Framer Motion
 
 ## Demo
 
+[Live Demo](https://fm-sidebar.netlify.app/)
 ![Sidebar Demo](demo.gif)
 
 ## Features
@@ -32,7 +33,7 @@ A simple, animated sidebar built with Vite, React, TypeScript, and Framer Motion
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/your-username/framer-motion-sidebar.git
+   git clone https://github.com/ahmedesmail01/framer-motion-sidebar
    cd framer-motion-sidebar
    ```
 
