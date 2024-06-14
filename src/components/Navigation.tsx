@@ -10,7 +10,7 @@ export const Navigation = () => {
 			</div>
 			<a
 				className="flex items-center gap-2 px-4 py-2 text-orange-400 bg-orange-700/20 rounded-xl hover:bg-orange-600/20 "
-				href=""
+				href="https://github.com/ahmedesmail01/framer-motion-sidebar"
 			>
 				<FiGithub className="text-xl" />
 				Source Code
